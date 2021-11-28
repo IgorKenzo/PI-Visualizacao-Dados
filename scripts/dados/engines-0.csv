@@ -1,0 +1,501 @@
+engine_id,engine_name,engine_platforms,engines_companies
+186,OEngine,6;48;49;,5025;
+414,html5,undefined,undefined
+1291,Pinball Construction Set,undefined,undefined
+237,The Madness Engine,undefined,356;
+439,Unreal Engine 4,undefined,17463;
+607,Visionaire Studio,undefined,undefined
+1357,Cryogen,undefined,undefined
+1211,Trial,undefined,undefined
+34,GlassBox,undefined,undefined
+32,Retox,undefined,undefined
+153,LyN,5;6;9;12;20;37;,undefined
+203,UE4 - duplicate,undefined,undefined
+35,Northlight Engine,6;48;49;,undefined
+40,Titan 2.0,undefined,undefined
+44,Velocity Engine,undefined,undefined
+109,Horizon Engine,undefined,undefined
+112,FlatRedBall,undefined,undefined
+129,Emmersion,undefined,undefined
+127,LS3D,undefined,undefined
+143,Sierra's Creative Interpreter,undefined,undefined
+146,Beard+Razor,undefined,undefined
+1279,MS25,undefined,undefined
+594,flash,undefined,undefined
+162,Vampire,undefined,undefined
+225,Phoenix Engine (Relic),6;9;12;,196;
+184,Killzone Shadow Fall engine,undefined,undefined
+1052,Rpgmak,undefined,undefined
+288,Dagon Engine,undefined,undefined
+416,Evolution Engine,undefined,undefined
+1328,RTC Engine,undefined,undefined
+835,Dark Sun,undefined,undefined
+1185,Creatures Evolution Engine,undefined,undefined
+1307,Halo 3,undefined,undefined
+665,Soft Engine 2.0,undefined,undefined
+1139,Flutter,undefined,undefined
+1256,Majiro,undefined,undefined
+229,Moai,undefined,undefined
+121,Refractor Engine,6;11;14;,94;138;155;
+1210,Darkstar,undefined,undefined
+1212,plays,undefined,undefined
+526,zandronum,undefined,undefined
+1108,Starlight,undefined,undefined
+1257,Infinity Engine 2,undefined,undefined
+171,Flixel,undefined,undefined
+976,CP System II (CPS-2),undefined,undefined
+1310,Raven,undefined,undefined
+174,PhyreEngine,undefined,45;
+557,Source 2,6;14;34;39;,56;
+50,Starbreeze Engine,undefined,undefined
+766,Saber3D Engine,undefined,undefined
+519,Offset Engine,undefined,13730;
+205,DarkPlaces engine,undefined,undefined
+346,Road Hog Engine,undefined,420;
+515,Ronin,undefined,undefined
+147,YETI,6;9;12;38;41;,841;4477;
+138,Jedi,6;13;,undefined
+1037,Bemani PC Type 5,undefined,undefined
+8,Havok,undefined,undefined
+1159,ShiVa3d,undefined,undefined
+834,TyranoScript,undefined,undefined
+30,Angelica III,undefined,undefined
+23,Serious Engine 4,undefined,undefined
+676,E.V.I.L Engine,undefined,undefined
+1180,FMOD,undefined,undefined
+57,Real Virtuality,undefined,undefined
+59,Impact Engine,undefined,undefined
+1223,Windows Mobile,undefined,undefined
+163,CloakNT3,undefined,undefined
+1149,EMotion FX,undefined,undefined
+208,Zero,undefined,undefined
+373,HaxeFlixel,undefined,undefined
+270,Cinematique,undefined,undefined
+268,c#,undefined,undefined
+283,Ice-Peak Engine,undefined,undefined
+1054,I.K.E.M.E.N,undefined,undefined
+68,Aurora Engine,6;,2;
+1278,MS30,undefined,undefined
+905,Construct,undefined,undefined
+1147,Invention,undefined,undefined
+238,Sprint,undefined,undefined
+1009,KRASS Engine,undefined,undefined
+623,Abyss Engine,undefined,undefined
+674,Star Engine,undefined,undefined
+673,Serious Engine 4.0,undefined,undefined
+705,Alien Shooter Engine,undefined,undefined
+1137,Go,undefined,undefined
+38,Diesel,undefined,undefined
+21,TheEngine,6;14;,5851;
+747,libGDX,undefined,undefined
+27,Dark Alliance Engine,6;8;9;11;12;21;38;,78;
+1109,idTech3,undefined,undefined
+434,Novelty,undefined,undefined
+19,Ubisoft Snowdrop,6;48;49;130;170;,104;537;
+1063,Cardinal Game Engine,undefined,undefined
+1250,Airem engine,undefined,undefined
+357,Sonic Worlds,undefined,undefined
+1282,Croc 2,undefined,undefined
+126,Kinetica,8;,4357;
+437,BANG!,undefined,undefined
+1131,Steamclock Software,undefined,undefined
+1270,Nugbase Engine,undefined,undefined
+1179,stockfish,undefined,undefined
+134,ZenGin,6;,1056;
+37,Quest,undefined,undefined
+1220,menduz engine,undefined,undefined
+218,node.js,undefined,undefined
+33,Forgelight Engine,undefined,undefined
+92,XnGine,undefined,undefined
+836,namco,undefined,undefined
+93,Radiant AI,undefined,undefined
+1325,Taito Type-X2,undefined,undefined
+114,Crystal Tools,undefined,undefined
+608,Symbian,undefined,undefined
+132,Voxel Plus,undefined,undefined
+167,Cube Engine,undefined,undefined
+1073,Varytale,undefined,undefined
+1134,skaza engine,undefined,undefined
+1064,JEng,undefined,undefined
+502,Autodesk Beast,undefined,undefined
+692,ElectronJS,undefined,undefined
+294,Serious Engine 3.5,undefined,undefined
+293,jMonkeyEngine,undefined,undefined
+347,Visionaire,undefined,undefined
+206,Construct 2,undefined,undefined
+319,Cougar Adventure Engine,undefined,undefined
+343,Box2D,undefined,undefined
+1121,BabylonJS,undefined,undefined
+408,Un,undefined,undefined
+406,Kapow Systems 3D,undefined,undefined
+415,Internal Piranha Byte's Engine,undefined,undefined
+424,Homemade,undefined,undefined
+426,pyglet,undefined,undefined
+447,PINA,undefined,undefined
+617,Yuna Engine,undefined,undefined
+628,Vulkan,undefined,undefined
+664,Asylum,undefined,undefined
+316,Serious Engine,undefined,undefined
+818,proprietary engine [ by Team Ninja ],undefined,undefined
+46,Crystal Engine,undefined,undefined
+762,Shooting Game Builder,undefined,undefined
+1186,Rockstar Advanced Game Engine,undefined,undefined
+593,Allegro,3;6;14;34;39;,undefined
+66,BigWorld,undefined,undefined
+389,Pixi,undefined,undefined
+1176,Meep,undefined,undefined
+1114,StepMania,undefined,undefined
+10,AnvilNext,6;9;12;41;46;48;49;,38;
+1065,Texture,undefined,undefined
+1294,Havok Vision Game Engine,undefined,undefined
+286,Silent Storm Engine,undefined,undefined
+498,DS2,6;,12247;
+1358,DOSBox,undefined,undefined
+829,PICO-8,undefined,undefined
+16,Disrupt,undefined,undefined
+278,The Sims 2 Engine,undefined,undefined
+36,Asura,undefined,undefined
+49,Pyrogenesis,undefined,undefined
+528,Glacier 2,undefined,290;
+151,Plasma Engine,undefined,undefined
+158,Xed,undefined,undefined
+175,Dark Side,undefined,undefined
+1164,Cardboard,undefined,undefined
+176,Earth-4,undefined,undefined
+177,Nebula Device,undefined,undefined
+187,Alamo,undefined,undefined
+188,Snowblind engine,undefined,undefined
+214,COBRA,undefined,undefined
+230,Gepard 3D engine,undefined,undefined
+273,Shadow Knights,undefined,undefined
+275,The Banner Saga Engine,undefined,undefined
+307,Hammerhead,undefined,undefined
+12,Telltale Tool,undefined,undefined
+1055,FIFA 2001 Engine,undefined,undefined
+939,DreamFactory,undefined,undefined
+971,Sega Chihiro,undefined,undefined
+116,id Tech 1,undefined,undefined
+979,Mars VR Engine,undefined,undefined
+816,Yamaneko Engine,undefined,undefined
+1353,EAGL 2,undefined,undefined
+309,Phoenix Engine (Wolfire),undefined,undefined
+315,FAME Tech,undefined,undefined
+323,pc,undefined,undefined
+320,Gamebook Adventures Engine,undefined,undefined
+331,Nitrous,undefined,undefined
+338,Z-Engine,undefined,undefined
+430,ios,undefined,undefined
+625,Starling,undefined,undefined
+759,proprietary engine [ by Grinding Gear Games ],undefined,undefined
+1365,DIV Game Creator,undefined,undefined
+1235,NESiCAxLive,undefined,undefined
+144,iMUSE,3;6;7;8;13;14;16;,9;
+139,Sith,6;,undefined
+1213,ADE-704A,undefined,undefined
+159,Playground SDK,undefined,undefined
+67,MAX-FX,undefined,undefined
+1132,Fuse MOS,undefined,undefined
+1138,System-NNN,undefined,undefined
+345,Open Dynamics Engine,undefined,undefined
+1335,DATA EAST MLC SYSTEM HARDWARE,undefined,undefined
+43,Dark Engine,6;,3;21;
+351,Unreal Engine 3,undefined,168;
+1122,Angular,undefined,undefined
+39,SCI1.1,undefined,undefined
+108,Amityville,undefined,undefined
+111,Groovie,undefined,undefined
+125,Voxel Space,undefined,undefined
+128,BitSquid,undefined,undefined
+1160,Quakespasm,undefined,undefined
+252,ZEN,undefined,undefined
+91,PathEngine,undefined,undefined
+284,Windows Animation Package 32,undefined,undefined
+295,GameZ,undefined,undefined
+301,CSS,undefined,undefined
+1269,V-Nuke,undefined,undefined
+256,Siglus,6;,2648;
+1219,QZandronum,undefined,undefined
+311,Iron Engine,undefined,undefined
+313,Beam Next Generation,undefined,undefined
+1277,MS23,undefined,undefined
+335,Black Hawk engine,undefined,undefined
+339,The Eight-Bit Universal Role Playing Engine,undefined,undefined
+1203,.ZnZin,undefined,undefined
+65,Torque 2D,undefined,undefined
+342,MEGA Engine,undefined,undefined
+363,Film Window,undefined,undefined
+367,Photex,undefined,undefined
+371,Gideros,undefined,undefined
+457,Spellwrath (Custom Engine),undefined,undefined
+619,Flare,undefined,undefined
+627,RealSpace 2,undefined,undefined
+663,Lithtech Triton,undefined,undefined
+666,Soft Engine Lite,undefined,undefined
+1207,LibUSB & HIDAPI,undefined,undefined
+699,Havoc,undefined,undefined
+269,Freescape,undefined,undefined
+266,Virtual World Inventor,undefined,undefined
+1298,ExEn (Execution Engine),undefined,undefined
+1056,Super Monkey Ball Engine,undefined,undefined
+513,Firebird Engine,undefined,407;
+42,SpeedTree,3;6;9;12;14;46;48;49;,4692;
+481,Real Virtuality 4,6;,116;
+1004,Konami Hornet,undefined,undefined
+82,MonkeyX,undefined,undefined
+361,Top Hat Engine,undefined,10371;
+60,Prism3D,undefined,undefined
+1006,Namco System 246,undefined,undefined
+271,XNA Game Studio,undefined,undefined
+760,Insomniac Engine,undefined,undefined
+280,SmartSim,undefined,undefined
+1187,Hiber Engine,undefined,undefined
+1200,NESmaker,undefined,undefined
+505,Spenefett,undefined,undefined
+453,Rataj's Browser Game Engine,82;,12455;
+1107,sdl2,undefined,undefined
+1066,Windrift,undefined,undefined
+1161,flowlab,undefined,undefined
+77,AGOS,undefined,undefined
+120,Enfusion,undefined,undefined
+130,SAGE,undefined,undefined
+131,W3D,undefined,undefined
+314,Dagor Engine,undefined,undefined
+170,Objectnaut,undefined,undefined
+181,Kapow,undefined,undefined
+840,RSPiX,undefined,undefined
+226,X Engine,undefined,undefined
+227,GEM,undefined,undefined
+224,X3 Reality,undefined,undefined
+233,Virtual Dream,undefined,undefined
+241,Dragon Co's engine,undefined,undefined
+296,Clausewitz Engine,undefined,7466;
+276,Klik & Play,undefined,undefined
+290,Gouache Engine,undefined,undefined
+292,VRAGE,undefined,undefined
+303,AJAX,undefined,undefined
+1057,Capcom VS SNK 2 Engine,undefined,undefined
+321,Trinity Vision Engine,undefined,undefined
+326,Quantum3,undefined,undefined
+328,Nocturne Engine,undefined,undefined
+330,Trinigy Vision Engine,undefined,undefined
+1036,Bemani PC Type 4,undefined,undefined
+122,Chameleon,undefined,undefined
+356,Turbulenz Engine,undefined,undefined
+368,Dx Studio,undefined,undefined
+379,Sahara Engine (custom built),undefined,undefined
+622,Aether Engine,undefined,undefined
+682,Doom engine [ using OpenGLES ],undefined,undefined
+1118,Ink,undefined,undefined
+436,DreamWorld,undefined,458;
+70,The Sims 3 Engine,undefined,undefined
+741,Spark Casual Engine,6;14;34;,5838;
+1349,AliceSoft System4.X,undefined,undefined
+51,3Space,undefined,undefined
+83,TDRPG Engine,undefined,undefined
+1038,ZGameEditor,undefined,undefined
+124,Treyarch NGL,undefined,undefined
+1285,FOCAL,undefined,undefined
+137,SlaveDriver,undefined,undefined
+198,Vital Engine,undefined,undefined
+1302,SGDK,undefined,undefined
+402,Cocos2d-x,undefined,undefined
+80,HydroEngine,undefined,undefined
+199,Macromedia Director 2.0,undefined,undefined
+191,VR-6,undefined,undefined
+272,KiriKiri,undefined,undefined
+460,Stratagus,undefined,undefined
+1320,TBH Game Engine,undefined,undefined
+745,Origin FX,undefined,undefined
+1344,Piskel,undefined,undefined
+774,Mohawk,undefined,undefined
+841,C0var1ant RPG Engine,undefined,undefined
+904,After Dark,undefined,undefined
+1366,RobustToolbox,undefined,undefined
+700,Defold,undefined,undefined
+55,Euphoria Engine,6;9;12;34;39;48;49;,3405;
+1214,ADE-6291,undefined,undefined
+1181,Linguini Engine,undefined,undefined
+1143,Tesseract,undefined,undefined
+693,Cordova,undefined,undefined
+1058,Capcom Sports Club Engine,undefined,undefined
+61,LithTech,undefined,407;
+883,Aseprite,undefined,undefined
+282,RENA,6;,1696;
+73,Babel engine,undefined,undefined
+94,FaceGen,undefined,undefined
+1204,QuakeWorld,undefined,undefined
+1039,Object Locative Environment Coordinate System,undefined,undefined
+479,Black Desert Engine,6;,2746;
+492,StoryForge,6;48;49;,12931;
+100,Nod Engine,undefined,undefined
+1216,Immortal Engine,undefined,undefined
+140,Ecstasy Engine,undefined,undefined
+164,MacVenture,undefined,undefined
+165,Gold Box,undefined,undefined
+192,MassTech,undefined,undefined
+194,isiMotor2,undefined,undefined
+197,Enforce,undefined,undefined
+250,Beelzebub,undefined,undefined
+359,BlitzMax,undefined,undefined
+364,Argon,undefined,undefined
+387,Praxis,undefined,undefined
+393,Sephius Engine,undefined,undefined
+396,BattleCore,undefined,undefined
+1197,react,undefined,undefined
+291,CANVAS Engine,32;,undefined
+353,BRender,undefined,undefined
+743,Veloren Engine,undefined,undefined
+822,Artemis Engine,undefined,undefined
+444,Leadwerks,6;,undefined
+1111,Chowdren,undefined,undefined
+115,Video Reality,6;,1327;
+1103,Custom C++ Backend,undefined,undefined
+1140,Chess Engine,undefined,undefined
+398,Chess Engine: The King,undefined,undefined
+399,Qt,undefined,undefined
+405,Tease2D,undefined,undefined
+417,NVLMaker,undefined,undefined
+463,super fx,undefined,undefined
+28,Infinity Engine,6;14;,2;
+1286,Super Contra,undefined,undefined
+767,Frostbite 2,undefined,undefined
+1201,Discord.py,undefined,undefined
+119,Glacier,undefined,290;
+872,HOPA Engine,undefined,undefined
+1068,Hugo,undefined,undefined
+1166,FM2K,undefined,undefined
+78,Chrome Engine,6;9;12;48;49;,108;
+297,Crystal Space,undefined,undefined
+488,PC,undefined,undefined
+1324,GameStudio,undefined,undefined
+1129,Adventure Game Toolkit (AGT),undefined,undefined
+1236,Namco System,undefined,undefined
+937,RenderDragon,undefined,undefined
+168,Angelica 3D,undefined,undefined
+169,Eparch 2D,undefined,undefined
+702,BYOND,undefined,undefined
+190,Omen Engine,undefined,undefined
+231,SigE,undefined,undefined
+243,A-Life,undefined,undefined
+325,Bluepoint Engine,undefined,undefined
+247,SurRender 3D,undefined,undefined
+376,Adventure Maker,undefined,undefined
+466,GH Engine,undefined,undefined
+1059,Modified Internal Engine,undefined,undefined
+469,React Native,undefined,undefined
+1273,VeChain,undefined,undefined
+753,Quixel Megascans,undefined,undefined
+758,proprietary engine [ by Pearl Abyss ],undefined,undefined
+757,ADV+++,undefined,undefined
+154,Vengeance Engine,6;,21;
+155,INSANE,6;7;13;14;50;78;,undefined
+1115,Coretech 3,undefined,undefined
+71,Z-machine,undefined,undefined
+279,HPL Engine,undefined,undefined
+1312,Xash 3D,undefined,undefined
+626,LithTech Jupiter,undefined,undefined
+482,CryEngine 3,undefined,249;
+74,X-ray Engine,6;,144;
+189,AtmosFear,undefined,undefined
+308,Cryengine 2,undefined,undefined
+748,Vision Engine,undefined,undefined
+1040,Jade Engine,undefined,undefined
+47,id Tech 5,6;9;12;14;48;49;,184;
+322,ZDoom,undefined,undefined
+201,RuneTek,undefined,undefined
+1075,LightForce,undefined,undefined
+327,Infernal Engine,undefined,undefined
+217,Lightweight Java Game Library,undefined,undefined
+547,TW Engine 1,undefined,111;
+87,HeroEngine,undefined,undefined
+545,Duplicate 669,undefined,undefined
+1323,Killer Queen,undefined,undefined
+374,SGE Game Engine,3;6;14;,undefined
+344,Pygame,undefined,undefined
+85,Gex engine,undefined,undefined
+4,GoldSrc,3;6;8;11;14;23;,56;
+86,IceWave,undefined,undefined
+88,Genome,undefined,undefined
+117,Quantic Dream Engine,undefined,undefined
+180,Marmoset,undefined,undefined
+178,HPL,undefined,undefined
+182,Enigma engine,undefined,undefined
+1218,Minetest(Q89114416),undefined,undefined
+202,ioquake3,undefined,undefined
+222,True3D,undefined,undefined
+306,Corona SDK,undefined,undefined
+310,Blam! Engine,undefined,undefined
+1060,DikuMUD,undefined,undefined
+1125,Ftech X,undefined,undefined
+366,Stingray Engine,undefined,undefined
+378,Lassie Shepherd,undefined,undefined
+1127,adrift,undefined,undefined
+383,Sparkle Engine,undefined,undefined
+1333,ALLS UX,undefined,undefined
+403,T-REX Sandbox,undefined,undefined
+1237,Super Namco System,undefined,undefined
+422,Intelligent Stupidity,undefined,undefined
+427,Asura engine,undefined,undefined
+465,Nvidia PhysX,undefined,undefined
+569,Wolfenstein RPG,undefined,undefined
+970,Atomiswave,undefined,undefined
+612,Quicksilver X,undefined,undefined
+1287,Atari 6502,undefined,undefined
+542,Bright Light Halogen,6;,2142;
+1196,LegendO,undefined,undefined
+239,Irrlicht,undefined,undefined
+236,Cocos2d,undefined,undefined
+220,Vicious Engine,undefined,undefined
+20,Doom engine,undefined,undefined
+1148,NeXAS,undefined,undefined
+1112,Sunshine,undefined,undefined
+1313,web3,undefined,undefined
+391,Dragon Engine,undefined,undefined
+697,I-Novae Engine,undefined,undefined
+749,Zod Engine,undefined,undefined
+751,Visual Basic,undefined,undefined
+72,Odyssey,6;11;14;,2;
+1041,Despair,undefined,undefined
+821,E-mote,undefined,undefined
+234,TW Engine 3,undefined,111;
+1135,AIMS,undefined,undefined
+1113,Sunshine Engine,undefined,undefined
+101,Virtual Theatre,undefined,undefined
+105,Essence Engine,undefined,undefined
+98,Neon Engine,undefined,undefined
+96,SAGA,undefined,undefined
+135,Geo-Mod,undefined,undefined
+133,Terrabuilder,undefined,undefined
+166,enhanced Adventure Island,undefined,undefined
+196,FXEngine,undefined,undefined
+209,Godfather engine,undefined,undefined
+244,Vsim,undefined,undefined
+384,CharLib,undefined,undefined
+397,Faktum Engine,undefined,undefined
+1326,OverWorld,undefined,undefined
+977,CP System III (CPS-3),undefined,undefined
+1061,Crimson Engine,undefined,undefined
+1106,Ego Engine 3.0,undefined,undefined
+1123,Capcom Play System III (CPS-3),undefined,undefined
+1274,WillPlus,undefined,undefined
+428,Sigma Engine,undefined,undefined
+432,Phoesion GE,undefined,undefined
+438,Real Virtuality 3,undefined,undefined
+455,Orx,undefined,undefined
+508,Alternativa Engine,undefined,undefined
+582,Google Play Services,undefined,undefined
+586,Spiller,undefined,undefined
+618,Swarm Engine,undefined,undefined
+669,Essence Engine 5,undefined,undefined
+670,Jomini Engine,undefined,undefined
+677,Warriors engine,undefined,undefined
+679,BigBang,undefined,undefined
+689,GlyphX Engine,undefined,undefined
+410,android,undefined,undefined
+972,Sega Lindbergh,undefined,undefined
+777,ALIVE,undefined,undefined
+1361,calico,undefined,undefined
+503,Simplygon,undefined,undefined
+1206,GLM,undefined,undefined
+454,ArenaNet Guild Wars,undefined,undefined
+1311,Custom Engine,undefined,undefined
