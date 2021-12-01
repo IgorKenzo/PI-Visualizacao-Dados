@@ -1,13 +1,71 @@
 <html>
     <head>
-        <script src="../js/script.js"></script>
-        <link rel="stylesheet" href="../css/styles.css">
+        <script
+        src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.4/Chart.js">
+        </script>
+        <script src="../scripts/loaddata.js"></script> 
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+        <link rel="stylesheet" href="../css/style.css">
     </head>
-    <body style="background-color: black;">
-        <h1>Um site muito bonito</h1>
-        <div>
-            <p class="ver">Wow, muita informarção</p>
-            <input type="button" value="AAAA" onclick="aa()"/>
+    <body>
+
+        <div class="row justify-content-evenly">
+            <h1 class="col-6"><span class="colored">PI 6</span> - Visualização de Dados</h1>
         </div>
+
+        <div class="row justify-content-evenly">
+            <h2 class="col-6">Engines e Plataformas de Jogos Eletrônicos</h1>
+        </div>
+
+        <div class="linha_de_graficos">
+
+            <!-- <label for="generos">Escolha um Gênero:</label> -->
+
+            <!-- <select name="generos" id="escolher_genero"></select> -->
+
+            <div class="row justify-content-evenly">
+                <select id="escolher_genero" class="col-4"></select>
+            </div>            
+
+            <div class="row justify-content-evenly">
+
+                <div class="div_do_canvas col-5">
+                    <h3><span class="underline">Engines</span> mais comuns por <span class="highlight">gênero</span></h3>
+                    <canvas id="myChart"></canvas>
+                </div>
+
+                <div class="div_do_canvas col-5">
+                    <h3><span class="underline">Plataformas</span> mais comuns por <span class="highlight">gênero</span></h3>
+                    <canvas id="myChart3"></canvas>
+                </div>
+
+            </div>
+
+        </div>
+        
+        <div class="linha_de_graficos">
+
+            <!-- <label for="generos">Escolha uma plataforma:</label> -->
+
+            <div class="row justify-content-evenly">
+                <div class="div_do_canvas col-10">
+                    <div class="row justify-content-start">
+                        <h3 class="col-4"><span class="underline">Gênero</span> mais comuns por <span class="highlight">plataforma</span></h3>
+                        <div class="col-4"><select name="generos" id="escolher_plat"></select></div>
+                    </div>                    
+                    <canvas id="myChart2"></canvas>
+                </div>
+            </div>
+               
+        </div>
+
+        <hr></hr>
+
+        <footer class="row justify-content-evenly">
+            <p class="col-3">Felipe Nishino, Igor Kenzo e Lucas Claro</p>
+            <p class="col-3 fonte">Fonte: <a href="https://api-docs.igdb.com/#about">https://api-docs.igdb.com/#about</a></p>
+        </footer>
+
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
     </body>
 </html>
