@@ -8,8 +8,8 @@ db = client["pi"]
 
 def main():
   games_dataframe = pd.read_csv("./igdbData/games.csv", sep="\t")
-  engines_dataframe = pd.read_csv("./igdbData/engines.csv")
-  genres_dataframe = pd.read_csv("./igdbData/genres.csv")
+  engines_dataframe = pd.read_csv("./igdbData/engines.csv", sep="\t")
+  genres_dataframe = pd.read_csv("./igdbData/genres.csv", sep="\t")
   platforms_dataframe = pd.read_csv("./igdbData/platforms.csv", sep="\t")
   
   game_array = []
@@ -63,13 +63,16 @@ def main():
       "platforms": game["game_platforms"],
     })
 
-    insert_mongo(game_array)
+  insert_mongo(game_array)
 
 
 def insert_mongo(data, delete=True):
+  try:
     if delete:
         db["igdb"].delete_many({})
     db["igdb"].insert_many(data)
+  except pymongo.errors.OperationFailure:
+    print("Erro durante acesso de write ao mongoDB. Como este arquivo está publico foram removidos os privilégios de tal caráter")
 
 def popular_engine_by_genre():
   return db.igdb.aggregate([
@@ -320,11 +323,11 @@ if __name__ == "__main__":
     #   results.append(result)
     # print(dumps(results))
     
-    results = []
-    for result in popular_platform_by_genre():
-      result["platforms"] = result["platforms"][:7]
-      results.append(result)
-    print(dumps(results))
+    # results = []
+    # for result in popular_platform_by_genre():
+    #   result["platforms"] = result["platforms"][:7]
+    #   results.append(result)
+    # print(dumps(results))
     
     
 
